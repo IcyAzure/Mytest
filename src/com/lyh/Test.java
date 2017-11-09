@@ -9,6 +9,8 @@ public class Test {
         List<String> a = new ArrayList<>();
         a.add("1");
         a.add("2");
+        int[] abc = new int[]{3,2,11,4,5};
         System.out.println(a.size());
+        System.out.println(abc.length);
     }
 }
